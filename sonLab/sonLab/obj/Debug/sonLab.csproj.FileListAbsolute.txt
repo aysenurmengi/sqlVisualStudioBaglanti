@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\sonLab\sonLab\bin\Debug\sonLab.exe.config
+C:\Users\Monster\Desktop\sonLab\sonLab\bin\Debug\sonLab.exe
+C:\Users\Monster\Desktop\sonLab\sonLab\bin\Debug\sonLab.pdb
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.Form1.resources
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.Form2.resources
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.Form3.resources
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.Form4.resources
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.Form5.resources
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.Form6.resources
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.Properties.Resources.resources
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.exe
+C:\Users\Monster\Desktop\sonLab\sonLab\obj\Debug\sonLab.pdb
